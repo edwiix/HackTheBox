@@ -211,3 +211,5 @@ root@perfection:~#
 ```
 
 Hurray!! Got the root access.
+
+<figure><img src=".gitbook/assets/bmc-full-logo-no-background.png" alt="" width="375"><figcaption><p>https://www.buymeacoffee.com/b4tm4n</p></figcaption></figure>
